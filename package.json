@@ -5,6 +5,9 @@
   "bin": {
     "bsn-cli": "./cli.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shuaijs/brew-switch-node-cli.git"
