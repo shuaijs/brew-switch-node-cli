@@ -24,7 +24,7 @@
   "bugs": {
     "url": "https://github.com/shuaijs/brew-switch-node-cli/issues"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^3.0.0",
     "clear": "^0.1.0",
     "commander": "^4.0.1",
